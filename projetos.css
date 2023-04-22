@@ -7,3 +7,42 @@ body{
 h1{
     color: green;
 }
+
+h3{
+    color: #00FFFF;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: green;
+}
+
+header img{
+    width: 150px;
+    height: 150px;
+}
+
+.logo-html-css{
+    text-align: center;
+}
+
+.img{
+    top: 50px;
+    left: 50px;
+}
+
+.container{
+    padding: 0px 50px;
+}
