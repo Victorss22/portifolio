@@ -41,6 +41,11 @@ header img{
 .img{
     top: 50px;
     left: 50px;
+    text-align: center;
+}
+
+img{
+    margin-bottom: 10px;
 }
 
 .container{
